@@ -1,4 +1,4 @@
-# Bonjour, je suis Romain Manzini 👋
+# Bonjour, je suis Romain Manzini !
 
 ### Data Scientist | Ingénieur R&D 7 ans | Disponible immédiatement
 
