@@ -2,7 +2,7 @@
 
 ### Data Scientist | Ingénieur R&D 7 ans | Disponible immédiatement
 
-Ingénieur de formation (SIGMA Clermont), j'ai passé 7 ans à piloter des projets R&D complexes dans l'industrie des énergies renouvelables. Aujourd'hui Data Scientist en formation (DataScientest / Mines de Paris — RNCP niveau 7), je combine expertise métier et maîtrise des outils data pour transformer des données brutes en décisions concrètes.
+Ingénieur de formation (SIGMA Clermont), j'ai passé 7 ans à piloter des projets R&D complexes dans l'industrie des énergies renouvelables. Aujourd'hui Data Scientist en formation (Liora / Mines de Paris — RNCP niveau 7), je combine expertise métier et maîtrise des outils data pour transformer des données brutes en décisions concrètes.
 
 📍 Marseille, France &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/romain-manzini/) &nbsp;|&nbsp; 📧 manzini.romain38@gmail.com
 
@@ -40,7 +40,7 @@ Ingénieur de formation (SIGMA Clermont), j'ai passé 7 ans à piloter des proje
 Analyse de données de navigation réelles (AIS danoises) pour détecter automatiquement des comportements anormaux en mer.
 - **Modèles** : Isolation Forest · One-Class SVM · Deep Learning PyTorch
 - **Type** : ML non supervisé sur données complexes et bruitées
-- **Contexte** : Projet fil rouge DataScientest
+- **Contexte** : Projet fil rouge Liora
 
 ### 🎙️ Automatisation de l'analyse des temps de parole politiques *(en cours)*
 Mesure objective du temps de parole accordé aux femmes et hommes politiques dans les médias.
