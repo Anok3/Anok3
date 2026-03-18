@@ -36,7 +36,7 @@ Ingénieur de formation (SIGMA Clermont), j'ai passé 7 ans à piloter des proje
 
 ## 🚀 Projets
 
-### 🚢 Détection d'anomalies sur trajectoires maritimes
+### 🚢 Détection d'anomalies sur trajectoires maritimes *(en cours)*
 Analyse de données de navigation réelles (AIS danoises) pour détecter automatiquement des comportements anormaux en mer.
 - **Modèles** : Isolation Forest · One-Class SVM · Deep Learning PyTorch
 - **Type** : ML non supervisé sur données complexes et bruitées
